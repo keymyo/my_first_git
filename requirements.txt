@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+pymyalchemy
+elasticsearch
+pandas
+scikit-learn
+pyplot
